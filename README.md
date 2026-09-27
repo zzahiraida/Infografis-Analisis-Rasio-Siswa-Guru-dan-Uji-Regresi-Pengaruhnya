@@ -1,0 +1,2 @@
+# Infografis-Analisis-Rasio-Siswa-Guru-dan-Uji-Regresi-Pengaruhnya
+Melakukan analisis pendidikan dasar Indonesia tahun 2024 dengan fokus pemerataan guru. Rasio siswa guru menjadi indikator penting karena memengaruhi beban mengajar dan kualitas pembelajaran. Rasio yang tinggi membuat guru menangani terlalu banyak siswa, sehingga menurunkan kualitas belajar dan meningkatkan risiko siswa mengulang serta putus sekolah
